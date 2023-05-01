@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**jeancastilho/Jeancastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## HI! My name is Jean Castilho 🤙
 
-Here are some ideas to get you started:
+- 👨‍💻 I am currently working as a support technician
+- 📜 Currently studying Bachelor of Science in Computer Science,
+and learning java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### How to reach me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanderson-c-a8b80b107)
+
+
+![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancastilho&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancastilho&hide_progress=true)](https://github.com/jeancastilho/github-readme-stats)
+
+### Technologies I use on a daily basis
+<div style="display: inline_block"><br/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
