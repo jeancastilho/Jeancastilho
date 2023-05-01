@@ -2,7 +2,7 @@
 ## HI! My name is Jean Castilho 🤙
 
 - 👨‍💻 I am currently working as a support technician
-- 📜 Currently studying Bachelor of Science in Computer Science,
+- 📜 Currently studying Bachelor of Computer Science,
 and learning java
 
 
