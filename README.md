@@ -11,7 +11,6 @@ and learning java
 
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancastilho&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancastilho&hide_progress=true)](https://github.com/jeancastilho/github-readme-stats)
 
 ### Technologies I use on a daily basis
 <div style="display: inline_block"><br/>
